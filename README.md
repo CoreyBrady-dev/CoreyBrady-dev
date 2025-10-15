@@ -1,6 +1,6 @@
 ## Corey Brady
 
-**'Software Engineer | Computer Science Student'**
+**Software Engineer | Computer Science Student**
 
 I’m currently pursuing a bachelor’s degree in Computer Science at Old Dominion University. I enjoy building projects from scratch to strengthen my problem-solving skills and apply what I learn to real-world challenges.
 
